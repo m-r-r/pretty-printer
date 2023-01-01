@@ -1,0 +1,13 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: m-r-r/pretty-printer
+Upstream-Contact: Mickaël RAYBAUD-ROIG <mrr@ctrlaltbksp.eu>
+Source: 
+
+Files: *
+Copyright: 2023 Mickaël RAYBAUD-ROIG <mrr@ctrlaltbksp.eu>
+License: MIT or Apache-2.0
+
+Files: src/Printer.php src/FixedIndexQueue.php
+Copyright: © 2023 Mickaël RAYBAUD-ROIG <mrr@ctrlaltbksp.eu>
+  © 2011-2022 The Rust Programming Language contributors (see COPYING.md)
+License: MIT or Apache-2.0
