@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <title>
+      Title of the page
+    </title>
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="style.css"
+    />
+  </head>
+  <body>
+    <header>
+      <h1>
+        Title of the page
+      </h1>
+    </header>
+    <main>
+      <p>
+        Lorem ipsum dolor sit
+        amet, consectetur
+        adipiscing elit. Donec
+        venenatis cursus ante
+        nec porttitor. Morbi
+        quis gravida elit.
+        Vivamus tristique
+        vulputate libero, vel
+        consequat ex faucibus
+        ut. Vestibulum gravida
+        orci vel porttitor
+        finibus. Duis posuere
+        euismod turpis, sed
+        faucibus mauris
+        condimentum feugiat.
+        Proin mauris elit,
+        venenatis sit amet
+        molestie quis, commodo
+        vitae turpis. Fusce
+        porttitor malesuada
+        enim. Quisque eget
+        arcu ex. Sed eget nisi
+        et mi commodo laoreet
+        id id quam. Ut sodales
+        consectetur purus,
+        quis ultricies orci
+        dignissim ut.
+        Phasellus lobortis,
+        ipsum rutrum ultricies
+        tempor, felis augue
+        imperdiet ipsum, eget
+        tempor ex libero in
+        lorem. Etiam aliquet
+        mollis enim, id
+        ultricies ipsum
+        commodo eget. Quisque
+        condimentum volutpat
+        finibus. Ut velit
+        arcu, maximus ac risus
+        vel, cursus laoreet
+        leo.
+      </p>
+      <p>
+        Duis vitae est felis.
+        Maecenas ullamcorper
+        sem orci, ac commodo
+        enim cursus id. Sed
+        ullamcorper vitae
+        lorem vitae faucibus.
+        Nulla facilisi.
+        Quisque rutrum magna
+        tellus, vitae pulvinar
+        elit venenatis a.
+        Aenean lectus quam,
+        mollis non pretium
+        eget, hendrerit eget
+        ipsum. Fusce sed
+        egestas elit. Ut
+        malesuada venenatis
+        euismod. Vestibulum
+        mollis finibus
+        laoreet. Integer et
+        velit est. In nec
+        faucibus mi. Maecenas
+        ultrices, mi a feugiat
+        sagittis, nibh nisi
+        dictum dui, ac
+        molestie dolor magna
+        in urna.
+      </p>
+      <p>
+        Aliquam blandit turpis
+        non lacinia sagittis.
+        Duis gravida, dui quis
+        mattis facilisis,
+        felis augue placerat
+        velit, non finibus dui
+        mi non mauris. Donec
+        volutpat quis urna sit
+        amet ultrices. Morbi
+        sed posuere lorem.
+        Morbi convallis vel
+        quam a pretium. Lorem
+        ipsum dolor sit amet,
+        consectetur adipiscing
+        elit. Sed sollicitudin
+        facilisis leo, vitae
+        lacinia risus sodales
+        id. Aenean accumsan
+        sit amet ligula eu
+        volutpat. Aenean
+        aliquet cursus quam,
+        vitae vestibulum dolor
+        pretium sit amet.
+      </p>
+      <p>
+        Donec fermentum
+        imperdiet interdum.
+        Nunc vitae mi sed
+        lorem tristique
+        placerat. Vestibulum
+        at accumsan ante, non
+        scelerisque orci.
+        Curabitur vulputate
+        nibh eu leo viverra
+        hendrerit. Nam vitae
+        massa quis mauris
+        consectetur lobortis
+        et non nunc. Vivamus
+        sollicitudin varius
+        faucibus. Sed suscipit
+        in tellus a ornare.
+        Maecenas rutrum dictum
+        bibendum. Phasellus
+        vel quam quam. Integer
+        faucibus iaculis
+        tristique. Praesent
+        tempor pellentesque
+        libero non congue.
+        Donec ut risus
+        suscipit, consequat
+        neque vitae, ultricies
+        quam. Maecenas non
+        pellentesque ipsum.
+        Praesent ac urna
+        venenatis, consectetur
+        erat in, facilisis
+        tellus. Donec id
+        tellus ac mauris
+        sollicitudin dictum.
+        Aenean sodales erat eu
+        mi tincidunt ornare.
+      </p>
+      <p>
+        Etiam quis enim ac
+        dolor fermentum
+        feugiat. Maecenas a
+        laoreet nisl, vitae
+        mattis sapien.
+        Phasellus consequat
+        magna vel iaculis
+        viverra. Vestibulum id
+        hendrerit nunc, eget
+        efficitur nibh. Sed at
+        massa quis nisl
+        sagittis feugiat.
+        Donec massa nisi,
+        tincidunt at sodales
+        in, vehicula in massa.
+        Pellentesque euismod
+        dolor id fermentum
+        ullamcorper. 
+      </p>
+    </main>
+  </body>
+  <footer>
+    <p>Footer text</p>
+  </footer>
+</html>

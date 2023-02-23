@@ -29,7 +29,8 @@
         "phpunit/phpunit": "^9.5",
         "vimeo/psalm": "^5.4",
         "friendsofphp/php-cs-fixer": "^3.13",
-        "psalm/plugin-phpunit": "^0.18.4"
+        "psalm/plugin-phpunit": "^0.18.4",
+        "spatie/phpunit-snapshot-assertions": "^4.2"
     },
     "autoload": {
         "psr-4": {
@@ -46,6 +47,7 @@
         "cs-fix": "php-cs-fixer fix",
         "analyze": "psalm",
         "test": "phpunit",
+        "test-update-snapshots": "@test -d --update-snapshots",
         "test-coverage": "@php -d zend_extension=xdebug -d xdebug.mode=coverage ./vendor/bin/phpunit",
         "check": [
             "@analyze",

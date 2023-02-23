@@ -18,6 +18,11 @@
     timeoutForMediumTests="9"
     timeoutForLargeTests="27"
 >
+    <php>
+        <env name="CREATE_SNAPSHOT" value="false" />
+        <env name="UPDATE_SNAPSHOT" value="false" />
+    </php>
+
     <testsuites>
         <testsuite name="default">
             <directory>tests</directory>

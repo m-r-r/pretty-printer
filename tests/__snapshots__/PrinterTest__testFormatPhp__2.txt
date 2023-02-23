@@ -1,0 +1,38 @@
+// width : 40
+protected function configure(): void
+{
+    $this
+        ->addArgument(
+            'name',
+            InputArgument::REQUIRED,
+            'Who do you want to greet?'
+        )
+        ->addArgument(
+            'last_name',
+            InputArgument::OPTIONAL,
+            'Your last name?'
+        )
+    ;
+}
+
+// width : 80
+protected function configure(): void
+{
+    $this
+        ->addArgument(
+            'name',
+            InputArgument::REQUIRED,
+            'Who do you want to greet?'
+        )
+        ->addArgument('last_name', InputArgument::OPTIONAL, 'Your last name?')
+    ;
+}
+
+// width : 120
+protected function configure(): void
+{
+    $this
+        ->addArgument('name', InputArgument::REQUIRED, 'Who do you want to greet?')
+        ->addArgument('last_name', InputArgument::OPTIONAL, 'Your last name?')
+    ;
+}
